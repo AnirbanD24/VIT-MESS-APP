@@ -1,1 +1,1 @@
-# VIT-MESS-APP-SDD-Project-
+# VIT-MESS-APP (SDD-Project)
